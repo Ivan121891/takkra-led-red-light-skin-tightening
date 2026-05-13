@@ -2,15 +2,15 @@
   "use strict";
 
   // ------- Configuration -------
-  const SERVICE_NAME = "Diamond Glass Glow";
+  const SERVICE_NAME = "LED Body Therapy";
   const SERVICE_DURATION_MIN = 60;
 
   // GHL credentials
   const GHL = {
-    locationId: 'y0BxIuctoWoj4zjXtJbh',
-    calendarId: 'XC5ngq4Ax0KsaofGDw9N',
+    locationId: 'CI1hQcs0bykFTQ717jDd',
+    calendarId: 'WL87IJ4ONQbEgM1nTkUX',
     userId:     '2tQreqXcDpaAiSBqlK7T',
-    apiKey:     'pit-da9b40a9-7512-4a9f-ac91-e150a241cf69',
+    apiKey:     'pit-458d1995-c591-48c7-8307-6343e6b7e86d',
     apiBase:    'https://services.leadconnectorhq.com',
     version:    '2021-07-28',
   };
