@@ -8,7 +8,7 @@
   // GHL credentials
   const GHL = {
     locationId: 'CI1hQcs0bykFTQ717jDd',
-    calendarId: 'ODR0VwK2STWKImiRsW9w',
+    calendarId: 'WL87IJ4ONQbEgM1nTkUX',
     userId:     '2tQreqXcDpaAiSBqlK7T',
     apiKey:     'pit-458d1995-c591-48c7-8307-6343e6b7e86d',
     apiBase:    'https://services.leadconnectorhq.com',
